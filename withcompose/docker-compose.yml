@@ -1,0 +1,9 @@
+version: '3'
+services:
+  web:
+    build: .
+    volumes:
+      - .:/app/data
+      - C:\Guillaume\Année4\S8\CC\TD6\withcompose\fichier.txt:/app/file.txt
+    ports:
+      - "5000:5000"
