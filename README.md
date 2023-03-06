@@ -1,4 +1,4 @@
-Dasn ce TD nous avons vu comment réaliser un bind mounts avec Docker et Docker Compose
+Dans ce TD nous avons vu comment réaliser un bind mounts avec Docker et Docker Compose
 
 Pour la partie withoutcompose :
 - On se place dans le répertoire withoutcompose avec la commande 'cd withoutcompose'
